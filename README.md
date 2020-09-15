@@ -20,4 +20,5 @@ Gaining better understanding on the subject.
  
 | Image       | description   |
 |-------------|---------------|
-![first picture]()
+![first picture](IMG_20200914_162316.jpg)
+![second picture]()
