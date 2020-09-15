@@ -22,3 +22,4 @@ Gaining better understanding on the subject.
 |-------------|---------------|
 ![first picture](IMG_20200914_162316.jpg)
 ![second picture](IMG_20200914_162329.jpg)
+![third picture](IMG_20200914_162341.jpg)
