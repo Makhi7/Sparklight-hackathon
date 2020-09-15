@@ -24,3 +24,5 @@ Gaining better understanding on the subject.
 ![second picture](IMG_20200914_162329.jpg)
 ![third picture](IMG_20200914_162341.jpg)
 ![fourth picture](IMG_20200914_162358.jpg)
+![fifth picture](IMG_20200914_162420.jpg)
+
