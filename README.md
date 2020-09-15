@@ -27,6 +27,7 @@ Gaining better understanding on the subject.
 ![fifth picture](IMG_20200914_162420.jpg)
 ![sixth picture](IMG_20200914_162433.jpg)
 ![seventh picture](IMG_20200914_162444.jpg)
+![eighth picture](IMG_20200914_162453.jpg)
 
 
 
